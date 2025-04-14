@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backer
+    uniqueID: 994443
+    locked: 0
+  - name: Walpaper
+    uniqueID: 2593951831
+    locked: 0
+  - name: 'Background '
+    uniqueID: 230593209
+    locked: 0
+  - name: Floor Items
+    uniqueID: 3400915197
+    locked: 0
+  - name: Player
+    uniqueID: 1415927181
+    locked: 0
+  - name: Enemy
+    uniqueID: 2260161075
+    locked: 0
