@@ -1,0 +1,47 @@
+win 5 games to win
+
+Pick mini gambell games such as 
+spin wheel 
+coin flip
+red or black 
+
+2D
+
+🎰 Gamble Types in Detail:
+🪙 1. Coin Flip
+Choose: Heads or Tails
+
+Flip animation → result
+
+🎡 2. Spinning Wheel
+Wheel is half Red, half Black
+
+Player picks color
+
+Wheel spins and lands → show result
+
+🃏 3. Pick a Card
+Two face-down cards
+
+Choose left or right
+
+Flip to reveal Red or Black
+
+All are 50/50 but feel visually different.
+
+////////////////////////////////////////
+Start Game → Show intro (e.g., “Win 5 gambles in a row to win your freedom!”)
+
+Round Screen (x5):
+
+Player chooses one of 3 gamble types
+
+Makes a choice (e.g., “Heads” / “Red” / “Left card”)
+
+Animation plays out → result shown
+
+If correct → +1 win, go to next round
+
+If wrong → show loss screen, restart or quit
+
+Victory after 5 correct gambles
