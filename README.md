@@ -21,6 +21,16 @@ This repository contains all of my work and weekly progress updates created thro
 
 - Industry-Standard Feedback (Excel Sheet)
 
+# 🕹️ GameJams created 
+The gamejam folders can be found in this repository under the "GameJam" folder
+
+Alternatively you can find them and play them easier on my itch page:
+
+Fizz Up: https://morganhodge.itch.io/fizz-pop
+
+Beyond the door:  https://morganhodge.itch.io/beyond-the-door
+
+
 # 💭 Reflection
 I’ve found this module incredibly beneficial — it’s helped me actively step into the industry and explore potential career paths after education. It’s given me the opportunity to grow as a game developer through participating in multiple game jams and creating a personal website to showcase my work.
 
