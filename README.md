@@ -3,7 +3,11 @@
 ## My Portfolio site i created 
 - www.morganhodge.co.uk
 - https://github.com/Mdot5596/My-Website
+  
+# 🎥 Journey Pitch
+https://youtu.be/tb8seM4LI70
 
+# 🎥 Game Trailer
 
 # 📁 This Repo
 This repository contains all of my work and weekly progress updates created throughout the module.
